@@ -19,5 +19,10 @@
   "requireSpacesInAnonymousFunctionExpression": {
     "beforeOpeningCurlyBrace": true,
     "beforeOpeningRoundBrace": true
+  },
+  "validateJSDoc": {
+    "checkParamNames": true,
+    "checkRedundantParams": true,
+    "requireParamTypes": true
   }
 }
